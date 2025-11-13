@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mangeshdhanmane/Desktop/CPU-Simulator/phase 1/output/main'
+relocations:     []
+...
